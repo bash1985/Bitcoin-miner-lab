@@ -1,0 +1,19 @@
+# Bitcoin Core
+bitcoin.conf
+wallet.dat
+*.cookie
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated mining output
+mined_blocks/
+mined/
+
+# IDE / OS
+.vscode/
+.idea/
+*.log
